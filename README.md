@@ -436,6 +436,10 @@ and test with
 and install with
 
     make install
+    
+# DOCKER EXAMPLES
+    
+Dockerfile examples with ubuntu plenv are in df-amd/ and df-arm/ (e.g. docker pull p6steve/rakudo:inline-p5-amd64-2021.05) then just go ```zef install -v Inline::Perl5```
 
 # AUTHOR
 
